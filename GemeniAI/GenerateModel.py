@@ -1,7 +1,6 @@
 import PIL.Image
 import google.generativeai as genai
 
-GEMINI_API = 'AIzaSyDBMZ3et4NDnkl9Q-p71bkf1kkdlvAe49E'
 
 
 class Gemini(object):
